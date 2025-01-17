@@ -1,4 +1,4 @@
-/*Hôtel
+Hôtel
 
 Table : Hotel
 Attributs :
@@ -48,4 +48,4 @@ Diagramme Relationnel (Final)
 Hotel(HotelID (PK), Nom, Adresse, Téléphone)
 Chambre(ChambreID (PK), Type, Prix, HotelID (FK))
 Client(ClientID (PK), Nom, Prénom, Adresse)
-Reservation(ReservationID (PK), DateDebut, DateFin, ClientID (FK), ChambreID (FK))*/
+Reservation(ReservationID (PK), DateDebut, DateFin, ClientID (FK), ChambreID (FK))
